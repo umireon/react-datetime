@@ -1,6 +1,6 @@
 import * as React from "react";
-import { Moment } from "moment";
-import * as moment from "moment";
+import { Dayjs as Moment } from "dayjs";
+import * as moment from "dayjs";
 import * as ReactDatetime from "react-datetime";
 
 /*
