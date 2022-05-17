@@ -6,7 +6,7 @@
 //                 Javier Marquez <javi@arqex.com>
 
 import { Component, ChangeEvent, FocusEvent, FocusEventHandler } from 'react';
-import { Moment } from 'moment';
+import { Dayjs as Moment } from 'dayjs';
 
 export = ReactDatetimeClass;
 
